@@ -1,4 +1,10 @@
 {
+  "name": "realtimemp-server",
+  "version": "1.0.0",
+  "main": "RealTimeMP_Server.js",
+  "scripts": {
+    "start": "node RealTimeMP_Server.js"
+  },
   "dependencies": {
     "ws": "^8.21.0"
   }
